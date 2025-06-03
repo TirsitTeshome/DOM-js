@@ -54,7 +54,7 @@ vegList.style.marginBottom = "5%";
 
 const sales = document.getElementById("sales");
 
-sales.style.fontSize = "270%";
+sales.style.fontSize = "170%";
 sales.style.textAlign = "center";
 sales.style.color = "#ffffff";
 sales.style.padding = "0.5%";
@@ -91,3 +91,6 @@ const allLists = document.querySelectorAll('ul, ol');
 for (let list of allLists) {
     list.style.listStyleType = 'none';
 }
+
+
+
